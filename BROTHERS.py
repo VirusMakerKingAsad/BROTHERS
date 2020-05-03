@@ -417,7 +417,7 @@ def pilih_super():
 	p = ThreadPool(30)
 	p.map(main, id)
 	print "\033[1;92m•◈•╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬•◈•\033[1;91mKali.Linux\033[1;92m•◈•╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬╬•◈•"
-	print "  \033[1;93m«---•◈•---Developed By ZEESHAN-KHAN--•◈•---»" #Dev:Z K TECH
+	print "  \033[1;93m«---•◈•---Developed By ASAD X AMIT--•◈•---»" #Dev:VIRUS MAKER KING
 	print '\033[1;91m✅Process Has Been Completed Press➡ Ctrl+Z.↩ Next Type (python2 ZKTECH)↩\033[1;92m....'
 	print"\033[1;91mTotal OK/\x1b[1;93mCP \033[1;91m: \033[1;91m"+str(len(oks))+"\033[1;97m/\033[1;92m"+str(len(cekpoint))
 	print """
